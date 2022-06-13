@@ -1,0 +1,16 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    font: x-large;
+    background-color: azure;
+    color: blue;
+}
+
+p {
+    font: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+    color: mediumblue;
+}
